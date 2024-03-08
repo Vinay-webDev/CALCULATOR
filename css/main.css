@@ -44,9 +44,15 @@ button:hover{
 button:active{
     background-color: hsl(0, 0%, 100%);
 }
-
-
-
+.operator-btn{
+    background-color: hsl(35, 100%, 50%);
+}
+.operator-btn:hover{
+    background-color: hsl(35, 100%, 65%);
+}
+.operator-btn:active{
+    background-color:hsl(35, 100%, 75%);
+}
 
 
 
